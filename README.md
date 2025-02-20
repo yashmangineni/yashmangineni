@@ -18,7 +18,7 @@ Technical Skills
 
 Projects
 
-E-Commerce Platform (Full Stack Development) 
+1.E-Commerce Platform (Full Stack Development) 
 Tech Stack: Spring Boot, MySQL, Angular
 
 • Developed an e-commerce platform with user authentication, cart management, and order tracking.
@@ -30,7 +30,7 @@ Tech Stack: Spring Boot, MySQL, Angular
 • Integrated front-end with back-end, ensuring seamless user experience.
 
 
-Chronic Kidney Disease Prediction (Machine Learning Project)
+2.Chronic Kidney Disease Prediction (Machine Learning Project)
 Tech Stack: Python, XGBoost
 
 • Designed and developed a CKD prediction model with 98.5% accuracy using XG Boost, significantly 
