@@ -8,9 +8,13 @@ contribute technical expertise to a dynamic team.
 Technical Skills
 
 • Programming Languages: Java, SQL
+
 • Web Development: HTML, Angular
+
 • Databases: MySQL
+
 • Frameworks: Spring Boot
+
 
 Projects
 
