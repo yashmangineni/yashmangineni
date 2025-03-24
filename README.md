@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Mangineni Girinath Yaswanth Sai</h1>
+<h1 align="center">👨‍💻 MANGINENI GIRINATH YASWANTH SAI</h1>
 
 <p align="center">
   <strong>Aspiring Software Engineer</strong><br>
