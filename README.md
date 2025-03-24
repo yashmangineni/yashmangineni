@@ -36,8 +36,12 @@
 
 ### 2️⃣ **Chronic Kidney Disease Prediction (Machine Learning Project)**  
 🛠 **Tech Stack:** Python, XGBoost  
-- ⚕️ Designed and developed a **CKD prediction model** with **98.5% accuracy**, significantly improving early diagnosis capabilities.  
-- 🏥 Performed **data pre-processing** on **Electronic Health Records (EHRs)** for feature selection and quality checks, enhancing model reliability.  
+- ⚕️ Developed a predictive model to chronic kidney disease (CKD) by implementing machine learning algorithms
+like Random Forest and XGBoost.
+- 🏥 My role primarily focused on data pre-processing, implementing machine learning models, and improving model
+accuracy.
+- 🏥 Achieved an impressive 98.5 accuracy using the XGBoost classifier, making it a reliable tool for early
+CKD diagnosis
 📂 [Project Repository](https://github.com/yashmangineni/chronic_kidney_disease.git)  
 
 ---
