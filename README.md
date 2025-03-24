@@ -18,9 +18,9 @@
 ## 🛠️ Technical Skills
 
 - **Programming Languages:** Java, SQL  
-- **Web Development:** HTML, Angular  
+- **Web Development:** HTML,CSS, Angular  
 - **Databases:** MySQL  
-- **Frameworks:** Spring Boot  
+- **Frameworks:** Spring,Spring MVC 
 
 ---
 
