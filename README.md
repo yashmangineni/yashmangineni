@@ -59,5 +59,6 @@ CKD diagnosis
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me 
+📞 **Phone:** +91 6309586945  |
 💼 [LinkedIn](https://www.linkedin.com/in/yash6945) | 🔗 [GitHub](https://github.com/yashmangineni) | ✉️ yaswanthmangineni@gmail.com  
