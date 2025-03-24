@@ -7,11 +7,13 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 **Aspiring Software Engineer** with expertise in **Java, Spring Boot, Angular, SQL, and RESTful APIs**  
-- 🎯 Passionate about **Full Stack Development** and building scalable applications  
-- 📜 **Certified** Full Stack Java Developer  
-- 🚀 Seeking an opportunity to contribute technical expertise to a dynamic team  
+## 🚀 About Me  
+- 💻 **Full Stack Developer** with expertise in **Core Java, Spring Boot, Angular, SQL, HTML, CSS, Spring**  
+- 🔍 Enthusiastic about **AI & Machine Learning**, with hands-on experience in **XGBoost, Data Processing, and Model Optimization**  
+- 📊 **Developed a CKD Prediction Model** achieving **98.5% accuracy** using **Machine Learning**  
+- 🛒 **Built an E-Commerce Platform** with **Spring Boot, MySQL, and Angular**  
+- 🤝 Passionate about **collaboration, innovation, and building user-centric applications**  
+ 
 
 ---
 
