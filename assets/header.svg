@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b"/>
+      <stop offset="50%" stop-color="#1c0606"/>
+      <stop offset="100%" stop-color="#09090b"/>
+    </linearGradient>
+
+    <!-- Red Glow Filter -->
+    <filter id="redGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Text Glow -->
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main Background Container -->
+  <rect x="5" y="5" width="840" height="250" rx="12" fill="url(#bgGrad)" stroke="#dc2626" stroke-width="1.5" stroke-opacity="0.5"/>
+
+  <!-- Subtle Outer Red Frame Glow -->
+  <rect x="5" y="5" width="840" height="250" rx="12" fill="none" stroke="#ef4444" stroke-width="1" stroke-opacity="0.3" filter="url(#redGlow)"/>
+
+  <!-- Corner Brackets Design [ ] -->
+  <!-- Top Left Bracket -->
+  <path d="M 25 45 L 25 25 L 45 25" fill="none" stroke="#ef4444" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Top Right Bracket -->
+  <path d="M 805 25 L 825 25 L 825 45" fill="none" stroke="#ef4444" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Bottom Left Bracket -->
+  <path d="M 25 215 L 25 235 L 45 235" fill="none" stroke="#ef4444" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Bottom Right Bracket -->
+  <path d="M 805 235 L 825 235 L 825 215" fill="none" stroke="#ef4444" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Top Pill Badge -->
+  <g transform="translate(425, 48)">
+    <rect x="-130" y="-14" width="260" height="26" rx="13" fill="#1b0404" stroke="#ef4444" stroke-width="1.2"/>
+    <text x="0" y="3" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#ef4444" letter-spacing="2">
+      • BUILDING REAL-WORLD TECH •
+    </text>
+  </g>
+
+  <!-- Main Name Title -->
+  <text x="425" y="118" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="900" fill="#ffffff" letter-spacing="3" filter="url(#textGlow)">
+    MANGINENI YASWANTH
+  </text>
+
+  <!-- Subtitle Tagline -->
+  <text x="425" y="156" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#ef4444" letter-spacing="2">
+    B.TECH AIML (2024)  •  FULL STACK &amp; ERP DEVELOPER
+  </text>
+
+  <!-- Decorative Separator Line -->
+  <line x1="300" y1="178" x2="550" y2="178" stroke="#dc2626" stroke-width="1" stroke-opacity="0.5" stroke-dasharray="4,4"/>
+  <circle cx="425" cy="178" r="3" fill="#ef4444"/>
+
+  <!-- Bottom Tagline -->
+  <text x="425" y="210" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#a1a1aa" letter-spacing="3">
+    TURNING IDEAS INTO PRODUCTION CODE
+  </text>
+</svg>

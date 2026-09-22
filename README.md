@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:dc2626&height=200&section=header&text=Mangineni%20Yaswanth&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="GitHub Header" />
+  <img src="./assets/header.svg" width="100%" alt="Mangineni Yaswanth Header" />
 </p>
 
 <!-- ===================== TYPING INTRO ===================== -->
