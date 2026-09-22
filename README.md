@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:dc2626&height=220&section=header&text=Mangineni%20Yaswanth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20in%20AIML%20%7C%20Full%20Stack%20%26%20ERP%20Developer&descAlignY=55&descSize=18" width="100%" alt="GitHub Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:dc2626&height=200&section=header&text=Mangineni%20Yaswanth&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="GitHub Header" />
 </p>
 
 <!-- ===================== TYPING INTRO ===================== -->
@@ -24,7 +24,7 @@
   <a href="https://portpolio-yaswanth.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=EF4444&labelColor=0a0a0a" alt="Portfolio" />
   </a>
-  <a href="mailto:yaswanthmangineni@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yaswanthmangineni@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
 </p>
@@ -267,9 +267,13 @@
   <a href="https://portpolio-yaswanth.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=EF4444&labelColor=0a0a0a" alt="Portfolio" />
   </a>
-  <a href="mailto:yaswanthmangineni@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yaswanthmangineni@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <b>Direct Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yaswanthmangineni@gmail.com">yaswanthmangineni@gmail.com</a>
 </p>
 
 <p align="center">
