@@ -100,27 +100,56 @@
 
 ---
 
-<!-- ===================== PORTFOLIO & PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-<h2 align="center">🔴 Portfolio & Projects</h2>
+<h2 align="center">🔴 Featured Projects</h2>
 
 <table width="100%">
   <tr>
     <td align="center">
-      <h3>🌐 Developer Portfolio & Projects</h3>
+      <h3>🛒 E-Commerce Platform</h3>
+      <p><b>Role:</b> Full Stack Developer</p>
       <p>
-        Check out my interactive portfolio website and my public repositories showcasing full-stack applications, backend services, and projects.
+        A full-stack e-commerce web application enabling users to seamlessly browse products, add items to cart, place orders, and manage purchases.
       </p>
+      <ul align="left">
+        <li>Developed a full-stack e-commerce platform enabling users to browse products, add items to cart, place orders, and manage purchases.</li>
+        <li>Designed and implemented RESTful APIs for product management, authentication, and order processing.</li>
+        <li>Integrated Angular frontend with Spring Boot backend to provide a seamless user experience.</li>
+      </ul>
       <p>
-        <b>Tech Stack:</b>
-        React • Angular • JavaScript • TypeScript • Java • Spring Boot • .NET • C# • SQL
+        <b>Technologies Used:</b>
+        Spring Boot • MySQL • Angular • RESTful APIs
       </p>
       <p align="center">
-        <a href="https://portpolio-yaswanth.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Portfolio-Visit_Website-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Portfolio" />
+        <a href="https://github.com/yashmangineni/onlineshoping">
+          <img src="https://img.shields.io/badge/GitHub_Repository-View_Project-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub Repository" />
         </a>
-        <a href="https://github.com/yashmangineni?tab=repositories">
-          <img src="https://img.shields.io/badge/GitHub_Repos-View_Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub Repositories" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🌺 Ganapati Memories — Digital Experience</h3>
+      <p><b>Role:</b> Full Stack Developer</p>
+      <p>
+        A complete full-stack Ganesh Utsav digital experience platform developed to present yearly celebrations, event details, committee members, Seva details, images, and video galleries.
+      </p>
+      <ul align="left">
+        <li>Architected a public web platform using Angular alongside a dedicated React admin dashboard for content management.</li>
+        <li>Built a shared Node.js & Express.js REST API supporting admin authentication, dynamic content management, and complete CRUD operations.</li>
+        <li>Configured cloud data persistence with MongoDB Atlas, deployed the backend API on Render, and hosted frontend applications on Netlify.</li>
+      </ul>
+      <p>
+        <b>Technologies Used:</b>
+        Angular • React • Node.js • Express.js • MongoDB Atlas • Render • Netlify
+      </p>
+      <p align="center">
+        <a href="https://ganeshustav-balaganeshyouth.netlify.app/">
+          <img src="https://img.shields.io/badge/Live_Website-Visit_App-DC2626?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0a0a0a" alt="Live Website" />
+        </a>
+        <a href="https://portpolio-yaswanth.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=EF4444&labelColor=0a0a0a" alt="Live Portfolio" />
         </a>
       </p>
     </td>
