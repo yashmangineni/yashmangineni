@@ -47,14 +47,14 @@
   Hello! I'm <b>Mangineni Yaswanth</b>, a <b>B.Tech AIML (2024)</b> graduate from
   <b>Kallam Haranadhareddy Institute of Technology</b> based in <b>Guntur, India</b>.
   <br /><br />
-  I specialize in <b>Full Stack Development</b> and <b>ERP Systems</b>, working with modern web and enterprise technologies including
-  <b>React, Angular, JavaScript, TypeScript, Java, Spring Boot, .NET, C#, and SQL</b>. I am passionate about building practical applications, continuously learning new technologies, and solving real-world development challenges.
+  I specialize in <b>Full Stack Development</b> and <b>ERP Systems</b>, working with modern web and enterprise frameworks including
+  <b>React, Angular, Node.js, Express.js, Java, Spring Boot, .NET, C#, Mongoose ODM, SQL, and MongoDB</b>. I also work with <b>ERP systems connecting with IDOs (Intelligent Data Objects)</b> for enterprise resource management and business logic integration.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-🎓_B.Tech_in_AIML_(2024)-111111?style=flat-square" alt="Degree" />
   <img src="https://img.shields.io/badge/College-KHIT,_Guntur-DC2626?style=flat-square" alt="College" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_ERP-111111?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_ERP_IDOs-111111?style=flat-square" alt="Focus" />
 </p>
 
 ---
@@ -73,26 +73,26 @@
       </p>
     </td>
     <td width="50%" align="center">
-      <h3>⚙️ Backend Development</h3>
+      <h3>⚙️ Backend & Frameworks</h3>
       <p>
-        Developing scalable backends and APIs using
-        Java, Spring, Spring Boot, .NET, and C#.
+        Developing scalable backends and REST APIs using
+        Node.js, Express, Java, Spring Boot, .NET, and C#.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🏭 ERP Development</h3>
+      <h3>🏭 ERP Development & IDOs</h3>
       <p>
-        Exploring enterprise application workflows, business logic,
-        and ERP solutions.
+        Designing enterprise application workflows, business logic,
+        and connecting with IDOs (Intelligent Data Objects).
       </p>
     </td>
     <td width="50%" align="center">
-      <h3>🗄️ Database Management</h3>
+      <h3>🗄️ Databases & Mongoose ODM</h3>
       <p>
-        Designing, querying, and managing relational database systems
-        using SQL.
+        Managing SQL databases and MongoDB data modeling using
+        the Mongoose framework.
       </p>
     </td>
   </tr>
@@ -174,13 +174,15 @@
   <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css&theme=dark" alt="Frontend Technologies" />
 </p>
 
-<h3 align="center">Backend & Enterprise Development</h3>
+<h3 align="center">Backend & Enterprise Frameworks</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet&theme=dark" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,express,mongodb&theme=dark" alt="Backend Technologies" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Mongoose_ODM-111111?style=for-the-badge&logo=mongoose&logoColor=EF4444" alt="Mongoose ODM" />
+  <img src="https://img.shields.io/badge/Infor_CSI-IDO_Development-DC2626?style=for-the-badge" alt="Infor CSI IDOs" />
   <img src="https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=csharp&logoColor=EF4444" alt="C#" />
   <img src="https://img.shields.io/badge/Spring_Boot-DC2626?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/.NET-0a0a0a?style=for-the-badge&logo=.net&logoColor=EF4444" alt=".NET" />
@@ -190,11 +192,11 @@
 <h3 align="center">Databases & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode&theme=dark" alt="Tools & Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode&theme=dark" alt="Tools & Databases" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Database-SQL-DC2626?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Database-SQL_%26_MongoDB-DC2626?style=for-the-badge&logo=mongodb&logoColor=white" alt="SQL and MongoDB" />
 </p>
 
 ---
@@ -205,17 +207,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java_%26_Spring_Boot-DC2626?style=for-the-badge&logo=spring&logoColor=white" alt="Java Spring Boot" />
+  <img src="https://img.shields.io/badge/Mongoose_%26_Express-111111?style=for-the-badge&logo=mongoose&logoColor=EF4444" alt="Mongoose & Express" />
   <img src="https://img.shields.io/badge/React_%26_Angular-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React & Angular" />
   <img src="https://img.shields.io/badge/C%23_%26_.NET-DC2626?style=for-the-badge&logo=csharp&logoColor=white" alt="C# .NET" />
-  <img src="https://img.shields.io/badge/SQL_Databases-111111?style=for-the-badge&logo=postgresql&logoColor=EF4444" alt="SQL Databases" />
 </p>
 
 - [x] Learn JavaScript, TypeScript, React & Angular for modern web frontend
-- [x] Build backend architectures with Java, Spring Boot, .NET, and C#
-- [x] Understand ERP concepts & enterprise system workflows
-- [x] Database design and management using SQL
-- [ ] Master advanced microservices architecture & system design
-- [ ] Deepen AI/ML applications integration with full-stack systems
+- [x] Build backend architectures with Java, Spring Boot, Node.js, Express, .NET, and C#
+- [x] Master Mongoose ODM framework for MongoDB data modeling & schema validation
+- [x] Understand ERP concepts, Infor CSI forms & IDO (Intelligent Data Objects) integration
+- [x] Database design and management using SQL and MongoDB Atlas
+- [ ] Master advanced microservices architecture & enterprise system design
+- [ ] Deepen AI/ML applications integration with full-stack enterprise systems
 
 ---
 
@@ -232,17 +235,7 @@
   <img src="https://streak-stats.demolab.com?user=yashmangineni&theme=dark&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" height="170" alt="GitHub Streak" />
 </p>
 
----
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-<h2 align="center">⚡ Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashmangineni/yashmangineni/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 <!-- ===================== CONNECT ===================== -->
 
