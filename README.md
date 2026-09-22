@@ -224,15 +224,12 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashmangineni&show_icons=true&theme=dark&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&bg_color=0a0a0a&border_radius=8" width="100%" style="max-width:440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashmangineni&show_icons=true&theme=dark&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&bg_color=0a0a0a&border_radius=8&count_private=true&cache_seconds=1800" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmangineni&layout=compact&theme=dark&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&bg_color=0a0a0a&border_radius=8&cache_seconds=1800" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmangineni&layout=compact&theme=dark&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&bg_color=0a0a0a&border_radius=8" width="100%" style="max-width:350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashmangineni&theme=dark&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width:480px;" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yashmangineni&theme=dark&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" height="170" alt="GitHub Streak" />
 </p>
 
 ---
